@@ -1,0 +1,25 @@
+
+// Вставить нужные шрифты и удалить комментарий:
+// изменяеются поля
+//font-family: "**";
+//font-weight: **;
+
+@font-face {
+  font-family: "**";
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("../fonts/**.woff2") format("woff2"),
+    url("../fonts/**.woff") format("woff");
+}
+
+@font-face {
+  font-family: "**";
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("../fonts/**.woff2") format("woff2"),
+    url("../fonts/**.woff") format("woff");
+}
